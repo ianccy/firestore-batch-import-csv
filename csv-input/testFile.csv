@@ -1,0 +1,10 @@
+client_id,measurement_id,event_name,event_param.pi_score,user_property.pi_user
+1231213.234324,G-213123,pi_update,10,10
+12312312.234324,G-234234,pi_update,10,10
+312321.324324,G-32432432,pi_update,8,8
+123123.234324,G-234234,pi_update,10,10
+123123.234234,G-3242343,pi_update,8,8
+123123.234234,G-234324,pi_update,8,8
+123123.234324,G-324234,pi_update,9,9
+123123.23432,G-234234,pi_update,10,10
+123123.234234,G-23432,pi_update,10,10
